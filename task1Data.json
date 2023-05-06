@@ -1,0 +1,20 @@
+[
+  { "id": 1, "fname": "Bayan", "lname": "Qatramiz", "age": 25, "city": "Doha" },
+  {
+    "id": 3,
+    "fname": "Wael",
+    "lname": "Zoaiter",
+    "age": 26,
+    "city": "Damascus"
+  },
+  { "id": 4, "fname": "Hanin", "lname": "Taboush", "age": 22, "city": "Cairo" },
+  { "id": 7, "fname": "Asma", "lname": "Homsi", "age": 24, "city": "Madina" },
+  {
+    "id": 8,
+    "fname": "Batoul",
+    "lname": "Kayalli",
+    "age": 24,
+    "city": "London"
+  },
+  { "id": 10, "fname": "Nasir", "lname": "Saba8", "age": 47, "city": "Giza" }
+]
